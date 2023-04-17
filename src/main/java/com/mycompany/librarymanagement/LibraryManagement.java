@@ -8,8 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * Student Name : Biplav karki
- * Student Id : 12205788
+ * Author : Biplav karki
  * Date : 17/ 02/2023
  * filename : LibraryManagement.java
  * purpose: main class to run the program

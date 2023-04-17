@@ -6,8 +6,7 @@ package com.mycompany.librarymanagement;
 
 /**
  *
- * Student Name : Biplav karki
- * Student Id : 12205788
+ * Author : Biplav karki
  * Date : 17/ 02/2023
  * filename : Bookings.java
  * purpose: to store and retrieve information of book and book taken by the user

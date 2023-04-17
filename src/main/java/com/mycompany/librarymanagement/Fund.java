@@ -6,8 +6,7 @@ package com.mycompany.librarymanagement;
 
 /**
  *
- * Student Name : Biplav karki
- * Student Id : 12205788
+ * Author : Biplav karki
  * Date : 17/ 02/2023
  * filename : Fund.java
  * purpose: to store and retrieve fund details
